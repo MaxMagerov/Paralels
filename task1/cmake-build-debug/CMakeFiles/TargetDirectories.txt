@@ -1,0 +1,4 @@
+C:/Users/1/Desktop/concurrency_theory-master/task1/cmake-build-debug/CMakeFiles/double.dir
+C:/Users/1/Desktop/concurrency_theory-master/task1/cmake-build-debug/CMakeFiles/float.dir
+C:/Users/1/Desktop/concurrency_theory-master/task1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/1/Desktop/concurrency_theory-master/task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
