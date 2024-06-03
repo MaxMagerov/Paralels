@@ -1,0 +1,1 @@
+/opt/nvidia/hpc_sdk/Linux_x86_64/23.11/compilers/bin/nvc++ -fopenmp -O2 CMakeFiles/individual_region.dir/source/individual_region.cpp.o -o individual_region 

@@ -1,0 +1,1 @@
+/usr/bin/cc -fopenmp -O2 CMakeFiles/numerical_integration.dir/source/main.c.o -o numerical_integration  -lm 

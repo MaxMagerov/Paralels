@@ -1,0 +1,7 @@
+/home/i.purtov/task2/2.3/build/CMakeFiles/individual_region.dir
+/home/i.purtov/task2/2.3/build/CMakeFiles/static.dir
+/home/i.purtov/task2/2.3/build/CMakeFiles/dynamic.dir
+/home/i.purtov/task2/2.3/build/CMakeFiles/guided.dir
+/home/i.purtov/task2/2.3/build/CMakeFiles/auto.dir
+/home/i.purtov/task2/2.3/build/CMakeFiles/edit_cache.dir
+/home/i.purtov/task2/2.3/build/CMakeFiles/rebuild_cache.dir
